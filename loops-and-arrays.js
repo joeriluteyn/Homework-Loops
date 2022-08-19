@@ -1,3 +1,4 @@
+
 // ==========================================
 // Opdracht 1
 // Schrijf een script dat iedere naam in onderstaande array vervangt door een koosnaampje, door er -"je" achter te plakken.
