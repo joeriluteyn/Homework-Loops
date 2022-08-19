@@ -68,11 +68,11 @@ for (let i = 0; i < 16; i++) {
 
 for (let i = 0; i < 10; i++) {
     if (i < 3 ) {
-        console.log(i)
+        console.log("" + i)
     }
     else if (i > 2 && i <= 5) {
         console.log("> " + i)
-    } else if (i > 5) {
+    } else {
         console.log(">> " + i)
     }
 }
